@@ -1,16 +1,30 @@
-### Hi there 👋
+# Software Engineer
 
-<!--
-**joaopedrogr/joaopedrogr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+<div align="justify">
+My name is João Pedro, and I'm currently pursuing a Bachelor's degree in Software Engineering. Additionally, I have extensive knowledge in various technologies, both in front-end and back-end development, including HTML5, CSS3, Bootstrap, Tailwind, Sass, JavaScript, Java, Python, and Spring Boot. I also have experience with databases such as PostgreSQL and MySQL, and I'm familiar with tools like Figma, VSCode, Notion, Git, and GitHub. My expertise also extends to agile methodologies.
 
-Here are some ideas to get you started:
+Continuously seeking to enhance my skills, I am currently dedicated to learning TypeScript, React, Node.js, Kotlin, Django, Flask, and cloud technologies like AWS and Google Cloud. I also bring experience with databases like Oracle, Microsoft SQL Server, and MongoDB.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In addition to my technical expertise, I am delving into project management, participating in courses on Business Agility, Business Process Modeling and Improvement, and Communication. I am always eager to pursue new opportunities to expand my knowledge and tackle fresh challenges.
+
+Driven by a passion for technology, I am committed to continuous learning and thrive in collaborative environments. I am always eager to tackle new challenges and explore fresh opportunities.
+</div>
+
+<div align="center">
+ <a href="https://github.com/joaopedrogr">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrogr&theme=react&show_icons=true&hide_border=true&count_private=true">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrogr&theme=react&show_icons=true&hide_border=true&layout=compact">
+</div>
+ 
+## Technologies and Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,tailwind,java,py,spring,mysql,postgres,figma,notion,git,github)](https://skillicons.dev)
+
+## Contact
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jpguinati)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpguinati@gmail.com)
+
+## Languages
+- Portuguese - Native
+- English - Advanced
+- French - Learning
