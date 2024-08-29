@@ -18,7 +18,7 @@ Driven by a passion for technology, I am committed to continuous learning and th
 </div>
  
 ## Technologies and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,tailwind,java,py,spring,mysql,postgres,figma,notion,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,java,py,spring,mysql,postgres,oracle,aws,gcp,azure,figma)](https://skillicons.dev)
 
 ## Contact
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jpguinati)
