@@ -11,7 +11,7 @@ In addition to my technical expertise, I am delving into project management, par
 Driven by a passion for technology, I am committed to continuous learning and thrive in collaborative environments. I am always eager to tackle new challenges and explore fresh opportunities.
 </div>
 
-<div align="justify">
+<div align="center">
  <a href="https://github.com/joaopedrogr">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrogr&theme=dark&show_icons=true&hide_border=true&count_private=false">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrogr&theme=dark&show_icons=true&hide_border=true&layout=compact">
