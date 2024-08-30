@@ -14,7 +14,7 @@ Driven by a passion for technology, I am committed to continuous learning and th
 <div align="center">
  <a href="https://github.com/joaopedrogr">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrogr&theme=dark&show_icons=true&hide_border=true&count_private=false">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrogr&theme=radical&show_icons=true&hide_border=true&layout=compact">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrogr&theme=dark&show_icons=true&hide_border=true&layout=compact">
 </div>
  
 ## Technologies and Tools
