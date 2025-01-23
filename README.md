@@ -11,19 +11,19 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="15" />
+  <img width="42" />
   <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
-  <img width="15" />
+  <img width="42" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="15" />
+  <img width="42" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="15" />
+  <img width="42" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="15" />
+  <img width="42" />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <img width="15" />
+  <img width="42" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="15" />
+  <img width="42" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
 </div>
 
@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-
+![snake gif](https://github.com/joaopedrogr/joaopedrogr/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
