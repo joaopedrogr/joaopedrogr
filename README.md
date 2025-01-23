@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaopedrogr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopedrogr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaopedrogr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopedrogr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="175" alt="languages graph"  />
 </div>
 
 ###
@@ -26,10 +26,4 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
 ![snake gif](https://github.com/joaopedrogr/joaopedrogr/blob/output/github-contribution-grid-snake-dark.svg)
-
-###
