@@ -1,4 +1,6 @@
-<h2 align="center">Software Engineer | Back-End Developer</h2>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+Web+Developer" alt="Typing SVG">
+</div>
 
 ###
 
@@ -11,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,java,spring,aws,mysql,postgres,mongodb,docker,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,go,java,aws,postgres,mongodb,kafka,docker,kubernetes" />
   </a>
 </p>
 
