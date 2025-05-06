@@ -6,14 +6,14 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaopedrogr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="135" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopedrogr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="135" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopedrogr&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=dark&hide_border=true&order=2" height="135" alt="languages graph"  />
 </div>
 
 ###
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,go,java,aws,postgres,mongodb,kafka,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,go,mongodb,aws,kafka,docker,kubernetes" />
   </a>
 </p>
 
